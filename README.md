@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Bruno Donatelli 💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Donatelli-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-leit%C3%A3o-donatelli-32b327160/)
-[![Gmail Badge](https://img.shields.io/badge/-bruno.donatelli17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:bruno.donatelli17@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail%20email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:bruno.donatelli17@gmail.com)
 
 
 I am a person who likes computer and notebook hardware, I also like NodeJs, Typescript / Javascript, Java and Spring Boot. I am always trying to learn new things and improve what I already know.
@@ -22,9 +22,13 @@ I am also player
 ># My Github Status
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoredes&hide=html,css,c#&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoredes&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Bruno Donatelli Github Stats](https://github-readme-stats.vercel.app/api?username=brunoredes&show_icons=true&theme=dracula)
+
+![Bruno Donatelli Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoredes&hide=html,css,c#&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoredes&hide=css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **brunoredes/brunoredes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
