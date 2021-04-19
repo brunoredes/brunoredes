@@ -25,13 +25,14 @@ I am also player
 
 ![Bruno Donatelli Github Stats](https://github-readme-stats.vercel.app/api?username=brunoredes&show_icons=true&theme=dracula)
 
-![Bruno Donatelli Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoredes&hide=html,css,c#&theme=dracula)
+![Bruno Donatelli Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoredes&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoredes&hide=css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
 **brunoredes/brunoredes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoredes&hide=css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
