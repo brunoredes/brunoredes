@@ -4,8 +4,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail%20email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:bruno.donatelli17@gmail.com)
 
 
-I am a person who likes computer and notebook hardware, I also like NodeJs, Typescript / Javascript, Java and Spring Boot. I am always trying to learn new things and improve what I already know.
-I am also player
+I am a person who likes computer and notebook hardware, I also like NodeJs, Typescript / Javascript, Java and Spring Boot.
+I am always trying to learn new things and improve what I already know.
+I like to play ragnarok (@thor, bRO) and LOL. And I also am staff part of private ragnarok server called JFRO (we are fixing bugs before release).
 
 
 --------
