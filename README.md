@@ -26,7 +26,7 @@ I like to play ragnarok (@thor, bRO) and LOL. And I also am staff part of privat
 
 ![Bruno Donatelli Github Stats](https://github-readme-stats.vercel.app/api?username=brunoredes&show_icons=true&theme=dracula)
 
-![Bruno Donatelli Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoredes&theme=dracula)
+[![Bruno Donatelli Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoredes&hide=css,html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
