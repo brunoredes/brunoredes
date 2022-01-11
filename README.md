@@ -22,13 +22,7 @@ I like to play ragnarok (@thor, bRO) and LOL. And I also am staff part of privat
 
 
 ># My Github Status
-<head>
-  <style>
-    .gh-stats {
-      display: flex;
-    }
-  </style>
-</head>
+
 
 <div class="gh-stats">
 ![Bruno Donatelli Github Stats](https://github-readme-stats.vercel.app/api?username=brunoredes&show_icons=true&theme=dracula)
