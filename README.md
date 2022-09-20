@@ -3,6 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Donatelli-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-leit%C3%A3o-donatelli-32b327160/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:bruno.donatelli17@gmail.com)
 [![Discord](https://img.shields.io/badge/-Donatello%237820-7289da?style=flat-square&logo=Discord&logoColor=white)](https://discord.com)
+![View Counter](https://komarev.com/ghpvc/?username=brunoredes&style=flat-square)
 
 
 I am a person who likes computer and notebook hardware, I also like NodeJs, Typescript / Javascript, Java and Spring Boot.
