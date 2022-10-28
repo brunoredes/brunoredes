@@ -6,7 +6,7 @@
 ![View Counter](https://komarev.com/ghpvc/?username=brunoredes&style=flat-square)
 
 
-I am a person who likes computer and notebook hardware, I also like NodeJs, Typescript / Javascript, Java and Spring Boot.
+I am a person who likes computer and notebook hardware, I also like NodeJs, Typescript / Javascript, and front-end in general. Pref stack: Angular/scss
 I am always trying to learn new things and improve what I already know.
 I like to play ragnarok (@thor, bRO) and LOL. And I also am staff part of private ragnarok server called JFRO (we are fixing bugs before release).
 
